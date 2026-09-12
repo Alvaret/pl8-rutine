@@ -1,0 +1,854 @@
+[
+  {
+    "day": 1,
+    "date": "14 sep",
+    "phase": "Comenzar",
+    "title": "Empieza sin prisa",
+    "intro": "Hoy no buscamos rendimiento. Solo demostrarte que puedes completar el día.",
+    "goal": "Completar la rutina base.",
+    "steps": "1.000–2.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min muy tranquilos · 07:10", "kind": "walk" },
+      { "title": "Movilidad", "detail": "Tobillos, hombros, talones, silla y cadera. Movimientos suaves, sin dolor.", "kind": "mobility" },
+      { "title": "Regla del trabajo", "detail": "Levántate 2–5 min cada 60–90 min entre las 08:00 y las 18:00.", "kind": "work" },
+      { "title": "Paseo de tarde", "detail": "15 min tranquilos · 18:15", "kind": "walk" },
+      { "title": "Lectura", "detail": "10 min · 22:00", "kind": "reading" },
+      { "title": "Dormir", "detail": "Acostarte entre 22:45 y 23:00", "kind": "sleep" }
+    ]
+  },
+  {
+    "day": 2,
+    "date": "15 sep",
+    "phase": "Comenzar",
+    "title": "Repite lo sencillo",
+    "intro": "Ayer fue el inicio. Hoy convertimos la intención en una pequeña rutina.",
+    "goal": "Volver a aparecer.",
+    "steps": "2.000–2.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min · 07:10", "kind": "walk" },
+      { "title": "Movilidad", "detail": "Gemelos, cuádriceps, cadera, pecho y tobillos.", "kind": "mobility" },
+      { "title": "Paseo de tarde", "detail": "20 min a ritmo cómodo", "kind": "walk" },
+      { "title": "Lectura", "detail": "10–15 min", "kind": "reading" },
+      { "title": "Pausas activas", "detail": "Levántate 2–5 min cada 60–90 min entre las 08:00 y las 18:00.", "kind": "work" }
+    ]
+  },
+  {
+    "day": 3,
+    "date": "16 sep",
+    "phase": "Activar",
+    "title": "Primera fuerza",
+    "intro": "Introducimos fuerza con una única vuelta y mucha atención a la técnica.",
+    "goal": "Terminar pensando que podrías hacer más.",
+    "steps": "2.000–2.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min + movilidad", "kind": "walk" },
+      { "title": "Sesión de fuerza", "detail": "Una vuelta · intensidad 3/10", "kind": "strength" },
+      { "title": "Paseo de salida", "detail": "10 min caminando", "kind": "walk" },
+      { "title": "Lectura", "detail": "15 min", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentarse y levantarse", "reps": "8" },
+      { "name": "Flexiones contra pared", "reps": "8" },
+      { "name": "Puente de glúteos", "reps": "8" },
+      { "name": "Elevaciones de talones", "reps": "10" },
+      { "name": "Bird-dog", "reps": "5/lado" }
+    ]
+  },
+  {
+    "day": 4,
+    "date": "17 sep",
+    "phase": "Activar",
+    "title": "Recuperar moviéndote",
+    "intro": "La recuperación también es parte del progreso.",
+    "goal": "Acumular movimiento sin forzar.",
+    "steps": "2.000–3.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min + 5 min de movilidad", "kind": "walk" },
+      { "title": "Paseo de tarde", "detail": "25 min a ritmo cómodo", "kind": "walk" },
+      { "title": "Pausas activas", "detail": "Busca 6–8 pausas durante el trabajo.", "kind": "work" },
+      { "title": "Lectura", "detail": "15 min", "kind": "reading" }
+    ]
+  },
+  {
+    "day": 5,
+    "date": "18 sep",
+    "phase": "Activar",
+    "title": "Consolidar fuerza",
+    "intro": "Repetimos el circuito y dejamos que el cuerpo aprenda.",
+    "goal": "Una vuelta; la segunda es opcional.",
+    "steps": "2.000–3.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min + movilidad", "kind": "walk" },
+      { "title": "Circuito de fuerza", "detail": "Una vuelta · segunda opcional", "kind": "strength" },
+      { "title": "Paseo de salida", "detail": "10–15 min", "kind": "walk" },
+      { "title": "Lectura", "detail": "15 min", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentarse y levantarse", "reps": "10" },
+      { "name": "Flexiones contra pared", "reps": "10" },
+      { "name": "Puente de glúteos", "reps": "10" },
+      { "name": "Elevaciones de talones", "reps": "12" },
+      { "name": "Bird-dog", "reps": "5/lado" }
+    ]
+  },
+  {
+    "day": 6,
+    "date": "19 sep",
+    "phase": "Caminar",
+    "title": "Primer paseo largo",
+    "intro": "El fin de semana abre espacio para moverte sin mirar el reloj.",
+    "goal": "Disfrutar del tiempo caminando.",
+    "steps": "2.500–3.500",
+    "activities": [
+      { "title": "Paseo largo", "detail": "30–40 min a ritmo cómodo", "kind": "walk" },
+      { "title": "Movimiento natural", "detail": "Recados, cocinar, limpiar o salir. Evita pasar todo el día sentado.", "kind": "work" },
+      { "title": "Lectura", "detail": "20 min", "kind": "reading" }
+    ]
+  },
+  {
+    "day": 7,
+    "date": "20 sep",
+    "phase": "Caminar",
+    "title": "Descanso activo",
+    "intro": "No entrenamos fuerza. Observamos cómo responde el cuerpo.",
+    "goal": "Escuchar tus sensaciones.",
+    "steps": "2.500–3.500",
+    "activities": [
+      { "title": "Paseo tranquilo", "detail": "25–30 min", "kind": "walk" },
+      { "title": "Movilidad", "detail": "5–10 min", "kind": "mobility" },
+      { "title": "Reflexión", "detail": "Piernas, molestias, sueño y rutina de mañana.", "kind": "reading" },
+      { "title": "Lectura", "detail": "20 min", "kind": "reading" }
+    ]
+  },
+  {
+    "day": 8,
+    "date": "21 sep",
+    "phase": "Avanzar",
+    "title": "Subir ligeramente",
+    "intro": "Primera semana completada. Ahora añadimos un poco de intención.",
+    "goal": "Caminar más sin correr.",
+    "steps": "3.000–4.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min; últimos 5 min algo más rápidos", "kind": "walk" },
+      { "title": "Paseo de tarde", "detail": "30 min", "kind": "walk" },
+      { "title": "Movilidad", "detail": "Tobillos, hombros, talones, silla y cadera. Movimientos suaves, sin dolor.", "kind": "mobility" },
+      { "title": "Lectura", "detail": "15–20 min", "kind": "reading" }
+    ]
+  },
+  {
+    "day": 9,
+    "date": "22 sep",
+    "phase": "Avanzar",
+    "title": "Dos vueltas",
+    "intro": "La fuerza crece con consistencia, no con prisa.",
+    "goal": "Completar dos vueltas con descanso.",
+    "steps": "3.000–4.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min + movilidad", "kind": "walk" },
+      { "title": "Sesión de fuerza", "detail": "2 vueltas · descansa 60–90 s", "kind": "strength" },
+      { "title": "Paseo de salida", "detail": "10 min", "kind": "walk" },
+      { "title": "Lectura", "detail": "20 min", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentarse y levantarse", "reps": "10" },
+      { "name": "Flexiones contra pared", "reps": "10" },
+      { "name": "Puente de glúteos", "reps": "10–12" },
+      { "name": "Elevaciones de talones", "reps": "12–15" },
+      { "name": "Bird-dog", "reps": "6/lado" }
+    ]
+  },
+  {
+    "day": 10,
+    "date": "23 sep",
+    "phase": "Avanzar",
+    "title": "Caminar es parte de ti",
+    "intro": "Convierte la caminata en un espacio agradable de tu día.",
+    "goal": "Acumular tiempo caminando.",
+    "steps": "3.500–4.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min", "kind": "walk" },
+      { "title": "Paseo de tarde", "detail": "30–35 min con música, podcast o audiolibro", "kind": "walk" },
+      { "title": "Pausas activas", "detail": "Levántate 2–5 min cada 60–90 min entre las 08:00 y las 18:00.", "kind": "work" },
+      { "title": "Lectura", "detail": "20 min", "kind": "reading" }
+    ]
+  },
+  {
+    "day": 11,
+    "date": "24 sep",
+    "phase": "Avanzar",
+    "title": "Consolidar",
+    "intro": "Mantenemos la dificultad y dejamos que la constancia haga su trabajo.",
+    "goal": "No aumentar todavía la dificultad.",
+    "steps": "3.500–4.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min + movilidad", "kind": "walk" },
+      { "title": "Sesión de fuerza", "detail": "2 vueltas", "kind": "strength" },
+      { "title": "Paseo de salida", "detail": "10–15 min", "kind": "walk" },
+      { "title": "Lectura", "detail": "20 min", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentarse y levantarse", "reps": "10" },
+      { "name": "Flexiones contra pared", "reps": "10" },
+      { "name": "Puente de glúteos", "reps": "12" },
+      { "name": "Elevaciones de talones", "reps": "15" },
+      { "name": "Bird-dog", "reps": "6/lado" }
+    ]
+  },
+  {
+    "day": 12,
+    "date": "25 sep",
+    "phase": "Recuperar",
+    "title": "Bajar el ritmo",
+    "intro": "Un día fácil también te acerca al objetivo.",
+    "goal": "Cuidar la recuperación.",
+    "steps": "3.000–4.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min + 5 min de movilidad", "kind": "walk" },
+      { "title": "Paseo de tarde", "detail": "25–30 min tranquilos", "kind": "walk" },
+      { "title": "Pausas activas", "detail": "Levántate 2–5 min cada 60–90 min entre las 08:00 y las 18:00.", "kind": "work" },
+      { "title": "Lectura", "detail": "20 min y acostarte temprano", "kind": "reading" }
+    ]
+  },
+  {
+    "day": 13,
+    "date": "26 sep",
+    "phase": "Recuperar",
+    "title": "Paseo largo",
+    "intro": "Acumulamos tiempo caminando, sin perseguir una distancia.",
+    "goal": "40–50 minutos de paseo.",
+    "steps": "4.000–5.000",
+    "activities": [
+      { "title": "Paseo largo", "detail": "40–50 min", "kind": "walk" },
+      { "title": "Movimiento natural", "detail": "Resto del día libre de entrenamiento.", "kind": "work" },
+      { "title": "Lectura", "detail": "20 min", "kind": "reading" }
+    ]
+  },
+  {
+    "day": 14,
+    "date": "27 sep",
+    "phase": "Cerrar",
+    "title": "Descanso activo",
+    "intro": "No compenses. El descanso inteligente también cuenta.",
+    "goal": "Moverte muy cómodo.",
+    "steps": "3.500–4.500",
+    "activities": [
+      { "title": "Paseo tranquilo", "detail": "25–30 min", "kind": "walk" },
+      { "title": "Movilidad", "detail": "5–10 min", "kind": "mobility" },
+      { "title": "Día libre", "detail": "Si estás cansado, descansa. No necesitas hacer más.", "kind": "sleep" },
+      { "title": "Lectura", "detail": "20 min", "kind": "reading" }
+    ]
+  },
+  {
+    "day": 15,
+    "date": "28 sep",
+    "phase": "Cierre",
+    "title": "Cierra la adaptación",
+    "intro": "Mira todo lo que has construido y decide qué hábito continúa contigo.",
+    "goal": "Completar la rutina y evaluarte.",
+    "steps": "4.000–5.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min + movilidad", "kind": "walk" },
+      { "title": "Sesión de fuerza", "detail": "2 vueltas", "kind": "strength" },
+      { "title": "Paseo de salida", "detail": "20–30 min", "kind": "walk" },
+      { "title": "Evaluación", "detail": "Energía, caminar, sueño, constancia, molestias y ganas de continuar.", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentarse y levantarse", "reps": "10" },
+      { "name": "Flexiones contra pared", "reps": "10" },
+      { "name": "Puente de glúteos", "reps": "12" },
+      { "name": "Elevaciones de talones", "reps": "15" },
+      { "name": "Bird-dog", "reps": "6/lado" }
+    ],
+    "reflection": ["Peso", "Pasos medios", "Días completados", "Mayor dificultad", "Mejor hábito conseguido"]
+  },
+  {
+    "day": 16,
+    "date": "29 sep",
+    "phase": "Construir",
+    "title": "Empieza la base",
+    "intro": "La adaptación ya está hecha. Ahora construimos fuerza sin perder control.",
+    "goal": "Completar dos vueltas cómodas.",
+    "steps": "4.000–5.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min a ritmo cómodo · RPE 3/10", "kind": "walk" },
+      { "title": "Fuerza de piernas", "detail": "Sentadilla a silla, puente de glúteos, elevaciones de talones y bird-dog · 2 vueltas · RPE 5/10", "kind": "strength" },
+      { "title": "Pausas activas", "detail": "2–5 min cada 60–90 min y 10 min caminando después de comer.", "kind": "work" },
+      { "title": "Movilidad", "detail": "Tobillo, cadera y columna torácica · 8 min sin rebotes.", "kind": "mobility" },
+      { "title": "Lectura", "detail": "15–20 min · móvil fuera durante los últimos 30 min", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentarse y levantarse", "reps": "2 x 8 · 90 s · RPE 5" },
+      { "name": "Puente de glúteos", "reps": "2 x 10 · 60 s · RPE 5" },
+      { "name": "Elevaciones de talones", "reps": "2 x 12 · 45 s" },
+      { "name": "Bird-dog", "reps": "2 x 5/lado · 45 s" }
+    ]
+  },
+  {
+    "day": 17,
+    "date": "30 sep",
+    "phase": "Construir",
+    "title": "Caminar con intención",
+    "intro": "Aumentamos un poco el tiempo aeróbico, manteniendo una conversación posible.",
+    "goal": "Acumular 45 minutos de caminata sin fatiga excesiva.",
+    "steps": "4.000–5.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min · RPE 3/10", "kind": "walk" },
+      { "title": "Cardio continuo", "detail": "25 min caminando a ritmo vivo pero cómodo · RPE 4/10", "kind": "walk" },
+      { "title": "Equilibrio", "detail": "Equilibrio a una pierna junto a una pared · 3 x 20 s/lado.", "kind": "mobility" },
+      { "title": "Pausas activas", "detail": "Levántate al menos 6 veces durante el trabajo.", "kind": "work" },
+      { "title": "Sueño", "detail": "Acostarte entre 22:45 y 23:00.", "kind": "sleep" }
+    ]
+  },
+  {
+    "day": 18,
+    "date": "1 oct",
+    "phase": "Construir",
+    "title": "Controlar la bajada",
+    "intro": "La fuerza en la bajada y el control de rodilla son una base importante para esquiar.",
+    "goal": "Moverte lento y estable, sin colapsar las rodillas hacia dentro.",
+    "steps": "4.000–5.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min + 5 min de movilidad · RPE 3/10", "kind": "walk" },
+      { "title": "Fuerza", "detail": "Sentadilla a silla con bajada lenta, zancada asistida y puente de glúteos · 2 vueltas · RPE 5–6/10", "kind": "strength" },
+      { "title": "Core", "detail": "Plancha inclinada en pared o mesa · 3 x 20 s · descanso 45 s.", "kind": "strength" },
+      { "title": "Movilidad", "detail": "Rodilla hacia la pared, flexor de cadera y rotación torácica · 8 min.", "kind": "mobility" },
+      { "title": "Lectura", "detail": "15–20 min alrededor de las 22:00.", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentadilla a silla lenta", "reps": "2 x 8 · 3 s bajada · 90 s" },
+      { "name": "Zancada asistida", "reps": "2 x 5/lado · 90 s · RPE 5" },
+      { "name": "Puente de glúteos", "reps": "2 x 12 · 60 s" },
+      { "name": "Plancha inclinada", "reps": "3 x 20 s · 45 s" }
+    ]
+  },
+  {
+    "day": 19,
+    "date": "2 oct",
+    "phase": "Construir",
+    "title": "Recuperar también es entrenar",
+    "intro": "Una jornada fácil permite asimilar la fuerza de los primeros días.",
+    "goal": "Terminar con más energía de la que empezaste.",
+    "steps": "4.000–5.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min muy cómodos · RPE 2–3/10", "kind": "walk" },
+      { "title": "Paseo después de comer", "detail": "10 min tranquilos si es posible.", "kind": "walk" },
+      { "title": "Movilidad", "detail": "10 min suaves: tobillos, cadera, espalda torácica y respiración.", "kind": "mobility" },
+      { "title": "Pausas activas", "detail": "Movimiento breve cada 60–90 min, sin convertirlo en entrenamiento.", "kind": "work" },
+      { "title": "Dormir", "detail": "Prioriza 8 horas y evita compensar con una sesión dura.", "kind": "sleep" }
+    ]
+  },
+  {
+    "day": 20,
+    "date": "3 oct",
+    "phase": "Construir",
+    "title": "Primer circuito sostenido",
+    "intro": "El circuito empieza a parecerse a un esfuerzo repetido, pero aún dejamos margen.",
+    "goal": "Completar dos vueltas con técnica uniforme.",
+    "steps": "4.500–5.500",
+    "activities": [
+      { "title": "Paseo largo", "detail": "35–40 min a ritmo cómodo · RPE 4/10", "kind": "walk" },
+      { "title": "Circuito de piernas", "detail": "2 vueltas, 90 s entre vueltas · RPE 6/10 · nunca al fallo", "kind": "strength" },
+      { "title": "Equilibrio", "detail": "Apoyo a una pierna con alcance de la mano · 2 x 5/lado.", "kind": "mobility" },
+      { "title": "Recuperación", "detail": "5–8 min caminando suave y movilidad de tobillo al terminar.", "kind": "mobility" },
+      { "title": "Lectura", "detail": "15–20 min y rutina nocturna habitual.", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentadilla a silla", "reps": "2 x 10 · 90 s · RPE 6" },
+      { "name": "Zancada atrás asistida", "reps": "2 x 6/lado · 90 s" },
+      { "name": "Puente de glúteos", "reps": "2 x 12 · 60 s" },
+      { "name": "Elevaciones de talones", "reps": "2 x 15 · 45 s" },
+      { "name": "Bird-dog", "reps": "2 x 6/lado · 45 s" }
+    ]
+  },
+  {
+    "day": 21,
+    "date": "4 oct",
+    "phase": "Construir",
+    "title": "Descanso activo",
+    "intro": "La recuperación mantiene la continuidad y prepara la siguiente semana.",
+    "goal": "Moverte sin buscar una marca.",
+    "steps": "4.000–5.000",
+    "activities": [
+      { "title": "Paseo tranquilo", "detail": "30 min · RPE 2–3/10", "kind": "walk" },
+      { "title": "Movilidad", "detail": "10 min de tobillo, cadera, columna torácica y respiración.", "kind": "mobility" },
+      { "title": "Equilibrio", "detail": "2 x 20 s por pierna junto a una pared, solo si no hay dolor.", "kind": "mobility" },
+      { "title": "Planificación", "detail": "Revisa agujetas, sueño y energía antes de empezar la segunda semana.", "kind": "reading" },
+      { "title": "Sueño", "detail": "Mantén el horario de 22:45–23:00.", "kind": "sleep" }
+    ]
+  },
+  {
+    "day": 22,
+    "date": "5 oct",
+    "phase": "Volumen",
+    "title": "Subir un poco el volumen",
+    "intro": "Comienza una semana de más trabajo, con la misma prioridad por la técnica.",
+    "goal": "Completar tres vueltas controladas, sin acabar vacío.",
+    "steps": "4.500–5.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min · RPE 3/10", "kind": "walk" },
+      { "title": "Fuerza", "detail": "3 vueltas de piernas y core · 90 s entre vueltas · RPE 6/10", "kind": "strength" },
+      { "title": "Pausas activas", "detail": "6–8 pausas de 2–5 min y 10 min después de comer.", "kind": "work" },
+      { "title": "Movilidad", "detail": "8 min, con énfasis en dorsiflexión de tobillo y cadera.", "kind": "mobility" },
+      { "title": "Lectura", "detail": "15–20 min sin móvil.", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentadilla a silla", "reps": "3 x 8 · 90 s · RPE 6" },
+      { "name": "Zancada atrás asistida", "reps": "3 x 5/lado · 90 s" },
+      { "name": "Puente de glúteos", "reps": "3 x 10 · 60 s" },
+      { "name": "Plancha inclinada", "reps": "3 x 25 s · 45 s" }
+    ]
+  },
+  {
+    "day": 23,
+    "date": "6 oct",
+    "phase": "Volumen",
+    "title": "Cardio en bloques",
+    "intro": "Aprendemos a cambiar ligeramente el ritmo sin correr.",
+    "goal": "Completar seis bloques sin perder la respiración controlada.",
+    "steps": "4.500–5.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min · RPE 3/10", "kind": "walk" },
+      { "title": "Cardio progresivo", "detail": "6 x (2 min vivo + 2 min suave) caminando · RPE 5 en los bloques vivos", "kind": "walk" },
+      { "title": "Equilibrio", "detail": "Apoyo a una pierna con ligera flexión de rodilla · 3 x 20 s/lado.", "kind": "mobility" },
+      { "title": "Trabajo", "detail": "Levántate cada 60–90 min y cambia de postura con frecuencia.", "kind": "work" },
+      { "title": "Lectura", "detail": "15–20 min alrededor de las 22:00.", "kind": "reading" }
+    ]
+  },
+  {
+    "day": 24,
+    "date": "7 oct",
+    "phase": "Volumen",
+    "title": "Piernas que resisten",
+    "intro": "Introducimos tiempos bajo tensión para acercarnos a la resistencia de cuádriceps del esquí.",
+    "goal": "Mantener la postura sin temblor excesivo ni dolor de rodilla.",
+    "steps": "4.500–5.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min + movilidad · RPE 3/10", "kind": "walk" },
+      { "title": "Resistencia de piernas", "detail": "Sentadilla isométrica parcial en pared, step-up bajo y bisagra de cadera · RPE 6/10", "kind": "strength" },
+      { "title": "Core lateral", "detail": "Plancha lateral con rodillas apoyadas · 2 x 15–20 s/lado.", "kind": "strength" },
+      { "title": "Movilidad", "detail": "Tobillo y flexores de cadera · 8 min.", "kind": "mobility" },
+      { "title": "Sueño", "detail": "Cena sin prisas y mantén 8 horas como referencia.", "kind": "sleep" }
+    ],
+    "exercises": [
+      { "name": "Sentadilla isométrica en pared", "reps": "3 x 20 s · 75 s · RPE 6" },
+      { "name": "Step-up bajo", "reps": "2 x 6/lado · 90 s" },
+      { "name": "Bisagra de cadera", "reps": "3 x 10 · 60 s" },
+      { "name": "Plancha lateral con rodillas", "reps": "2 x 20 s/lado · 45 s" }
+    ]
+  },
+  {
+    "day": 25,
+    "date": "8 oct",
+    "phase": "Volumen",
+    "title": "Descarga consciente",
+    "intro": "Bajamos la carga antes de seguir progresando.",
+    "goal": "Facilitar la recuperación muscular.",
+    "steps": "4.000–5.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min suave · RPE 2–3/10", "kind": "walk" },
+      { "title": "Paseo después de comer", "detail": "10 min si es posible.", "kind": "walk" },
+      { "title": "Movilidad", "detail": "12 min cómoda, sin forzar rangos.", "kind": "mobility" },
+      { "title": "Pausas activas", "detail": "Hazlas aunque tengas agujetas; deben ser ligeras.", "kind": "work" },
+      { "title": "Recuperación", "detail": "Hidratación, comida completa y nada de entrenar al fallo.", "kind": "sleep" }
+    ]
+  },
+  {
+    "day": 26,
+    "date": "9 oct",
+    "phase": "Volumen",
+    "title": "Mochila ligera",
+    "intro": "Si la técnica de los días anteriores fue sólida, añadimos una carga pequeña y opcional.",
+    "goal": "Usar una mochila que permita controlar cada repetición.",
+    "steps": "5.000–6.000",
+    "activities": [
+      { "title": "Paseo largo", "detail": "40–45 min · RPE 4/10", "kind": "walk" },
+      { "title": "Fuerza con carga opcional", "detail": "Mochila de 2–4 kg o peso corporal · 3 vueltas · RPE 6/10", "kind": "strength" },
+      { "title": "Equilibrio", "detail": "Alcances en tres direcciones desde una pierna · 2 x 4/lado.", "kind": "mobility" },
+      { "title": "Vuelta a la calma", "detail": "5 min caminando suave y movilidad de tobillo.", "kind": "mobility" },
+      { "title": "Lectura", "detail": "15–20 min y móvil fuera antes de dormir.", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentadilla a silla con mochila", "reps": "3 x 8 · 90 s · RPE 6" },
+      { "name": "Step-up bajo", "reps": "3 x 6/lado · 90 s" },
+      { "name": "Peso muerto con mochila", "reps": "3 x 8 · 75 s" },
+      { "name": "Elevación de talón a una pierna", "reps": "2 x 8/lado · 60 s" }
+    ]
+  },
+  {
+    "day": 27,
+    "date": "10 oct",
+    "phase": "Volumen",
+    "title": "Paseo largo controlado",
+    "intro": "Construimos la base cardiovascular que ayuda a recuperar entre bajadas.",
+    "goal": "Caminar más tiempo sin convertirlo en una prueba.",
+    "steps": "5.000–6.000",
+    "activities": [
+      { "title": "Cardio continuo", "detail": "50 min caminando, con 5 min finales algo más vivos · RPE 4–5/10", "kind": "walk" },
+      { "title": "Movilidad", "detail": "8 min al terminar, especialmente tobillos y cadera.", "kind": "mobility" },
+      { "title": "Equilibrio", "detail": "3 x 20 s por pierna, cerca de un apoyo.", "kind": "mobility" },
+      { "title": "Movimiento natural", "detail": "Recados y tareas ligeras, sin añadir otra sesión dura.", "kind": "work" },
+      { "title": "Sueño", "detail": "Cena e hidratación normales; acuéstate en horario.", "kind": "sleep" }
+    ]
+  },
+  {
+    "day": 28,
+    "date": "11 oct",
+    "phase": "Volumen",
+    "title": "Cierra la segunda semana",
+    "intro": "Comprueba que puedes repetir esfuerzos sin que la técnica se deshaga.",
+    "goal": "Completar el circuito con margen de dos repeticiones.",
+    "steps": "5.000–6.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min · RPE 3/10", "kind": "walk" },
+      { "title": "Circuito de esquí base", "detail": "3 vueltas · sentadilla, zancada, bisagra, gemelo y core · RPE 6–7/10", "kind": "strength" },
+      { "title": "Cardio suave", "detail": "15 min caminando para recuperar, no para añadir fatiga.", "kind": "walk" },
+      { "title": "Movilidad", "detail": "10 min suaves.", "kind": "mobility" },
+      { "title": "Evaluación", "detail": "Anota energía, molestias, sueño y qué ejercicio necesita más práctica.", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentadilla a silla", "reps": "3 x 10 · 90 s · RPE 6" },
+      { "name": "Zancada atrás", "reps": "3 x 6/lado · 90 s" },
+      { "name": "Bisagra de cadera", "reps": "3 x 10 · 60 s" },
+      { "name": "Elevaciones de talones", "reps": "3 x 15 · 45 s" },
+      { "name": "Plancha lateral", "reps": "2 x 20 s/lado · 45 s" }
+    ]
+  },
+  {
+    "day": 29,
+    "date": "12 oct",
+    "phase": "Esquí base",
+    "title": "Una pierna a la vez",
+    "intro": "El trabajo unilateral mejora el control de cadera, rodilla y tobillo.",
+    "goal": "Mover cada pierna con control y sin compensaciones.",
+    "steps": "5.000–6.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min · RPE 3/10", "kind": "walk" },
+      { "title": "Fuerza unilateral", "detail": "Step-up, zancada atrás y puente a una pierna asistido · 3 vueltas · RPE 6/10", "kind": "strength" },
+      { "title": "Core antirotación", "detail": "Marcha lenta tumbado con abdomen activo · 3 x 8/lado.", "kind": "strength" },
+      { "title": "Movilidad", "detail": "Tobillo y rotación de cadera · 8 min.", "kind": "mobility" },
+      { "title": "Lectura", "detail": "15–20 min.", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Step-up bajo", "reps": "3 x 8/lado · 90 s · RPE 6" },
+      { "name": "Zancada atrás", "reps": "3 x 6/lado · 90 s" },
+      { "name": "Puente a una pierna asistido", "reps": "2 x 6/lado · 60 s" },
+      { "name": "Dead bug", "reps": "3 x 6/lado · 45 s" }
+    ]
+  },
+  {
+    "day": 30,
+    "date": "13 oct",
+    "phase": "Esquí base",
+    "title": "Estabilidad en movimiento",
+    "intro": "El equilibrio se entrena con control, no forzando situaciones inestables.",
+    "goal": "Mantener alineadas cadera, rodilla y segundo dedo del pie.",
+    "steps": "5.000–6.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min + movilidad · RPE 3/10", "kind": "walk" },
+      { "title": "Equilibrio y fuerza", "detail": "Apoyo a una pierna, step-down bajo y sentadilla parcial · 3 vueltas · RPE 6/10", "kind": "strength" },
+      { "title": "Cardio", "detail": "25 min caminando a ritmo continuo · RPE 4/10", "kind": "walk" },
+      { "title": "Pausas activas", "detail": "No permanezcas sentado más de 90 min seguidos.", "kind": "work" },
+      { "title": "Sueño", "detail": "Mantén la hora de acostarte aunque el día haya sido largo.", "kind": "sleep" }
+    ],
+    "exercises": [
+      { "name": "Equilibrio a una pierna", "reps": "3 x 25 s/lado · 30 s" },
+      { "name": "Step-down bajo", "reps": "3 x 5/lado · 90 s · RPE 6" },
+      { "name": "Sentadilla parcial", "reps": "3 x 10 · 75 s" },
+      { "name": "Bird-dog con pausa", "reps": "3 x 6/lado · 45 s" }
+    ]
+  },
+  {
+    "day": 31,
+    "date": "14 oct",
+    "phase": "Esquí base",
+    "title": "Absorber y frenar",
+    "intro": "La fuerza excéntrica ayuda a absorber cambios de terreno y controlar la flexión.",
+    "goal": "Bajar despacio y estable en cada repetición.",
+    "steps": "5.000–6.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min · RPE 3/10", "kind": "walk" },
+      { "title": "Control excéntrico", "detail": "Sentadilla con 4 s de bajada, step-down y gemelo lento · 3 vueltas · RPE 6/10", "kind": "strength" },
+      { "title": "Core", "detail": "Plancha frontal inclinada o en rodillas · 3 x 25 s.", "kind": "strength" },
+      { "title": "Movilidad", "detail": "8 min sin dolor; no rebotes.", "kind": "mobility" },
+      { "title": "Lectura", "detail": "15–20 min.", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentadilla excéntrica", "reps": "3 x 8 · 4 s bajada · 90 s" },
+      { "name": "Step-down bajo", "reps": "3 x 6/lado · 90 s" },
+      { "name": "Elevación de talón lenta", "reps": "3 x 12 · 60 s" },
+      { "name": "Plancha inclinada", "reps": "3 x 25 s · 45 s" }
+    ]
+  },
+  {
+    "day": 32,
+    "date": "15 oct",
+    "phase": "Esquí base",
+    "title": "Recuperación activa",
+    "intro": "El cuerpo necesita días fáciles para convertir el estímulo en capacidad.",
+    "goal": "Reducir la fatiga sin abandonar los hábitos.",
+    "steps": "4.500–5.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min cómodo · RPE 2–3/10", "kind": "walk" },
+      { "title": "Paseo después de comer", "detail": "10 min suaves si es posible.", "kind": "walk" },
+      { "title": "Movilidad", "detail": "12 min centrados en tobillo, cadera y columna torácica.", "kind": "mobility" },
+      { "title": "Trabajo", "detail": "Pausas breves frecuentes, sin sesión adicional.", "kind": "work" },
+      { "title": "Recuperación", "detail": "Si hay agujetas, camina suave; no las combatas con más intensidad.", "kind": "sleep" }
+    ]
+  },
+  {
+    "day": 33,
+    "date": "16 oct",
+    "phase": "Esquí base",
+    "title": "Circuito de bajadas",
+    "intro": "Encadenamos esfuerzos de piernas con pausas para practicar la recuperación entre bajadas.",
+    "goal": "Mantener la calidad en cuatro rondas.",
+    "steps": "5.500–6.500",
+    "activities": [
+      { "title": "Paseo largo", "detail": "45 min · RPE 4/10", "kind": "walk" },
+      { "title": "Circuito específico", "detail": "4 rondas: 8 sentadillas, 6 zancadas/lado, 20 s pared, 8 gemelos · 2 min de pausa · RPE 6–7/10", "kind": "strength" },
+      { "title": "Equilibrio", "detail": "3 x 25 s por pierna tras recuperar la respiración.", "kind": "mobility" },
+      { "title": "Vuelta a la calma", "detail": "5 min de paseo suave.", "kind": "walk" },
+      { "title": "Lectura", "detail": "15–20 min y rutina nocturna.", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentadilla a silla", "reps": "4 x 8 · 2 min · RPE 6" },
+      { "name": "Zancada atrás", "reps": "4 x 6/lado · 2 min" },
+      { "name": "Sentadilla isométrica", "reps": "4 x 20 s · 2 min" },
+      { "name": "Elevaciones de talones", "reps": "4 x 8 · 2 min" }
+    ]
+  },
+  {
+    "day": 34,
+    "date": "17 oct",
+    "phase": "Esquí base",
+    "title": "Cardio que recupera",
+    "intro": "La resistencia no consiste en ir siempre rápido: consiste en volver a estar listo.",
+    "goal": "Recuperar el habla normal entre bloques.",
+    "steps": "5.500–6.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min · RPE 3/10", "kind": "walk" },
+      { "title": "Cardio por intervalos", "detail": "8 x (2 min vivo + 2 min suave) caminando · RPE 5–6/10 en los vivos", "kind": "walk" },
+      { "title": "Movilidad", "detail": "8 min de tobillo y cadera.", "kind": "mobility" },
+      { "title": "Trabajo", "detail": "Camina 10 min después de comer y cambia de postura.", "kind": "work" },
+      { "title": "Sueño", "detail": "No recortes el sueño para añadir entrenamiento.", "kind": "sleep" }
+    ]
+  },
+  {
+    "day": 35,
+    "date": "18 oct",
+    "phase": "Esquí base",
+    "title": "Descanso activo",
+    "intro": "Cerramos la tercera semana dando espacio a las piernas.",
+    "goal": "Llegar a la siguiente semana sin dolor ni fatiga acumulada.",
+    "steps": "4.500–5.500",
+    "activities": [
+      { "title": "Paseo tranquilo", "detail": "35 min · RPE 2–3/10", "kind": "walk" },
+      { "title": "Movilidad", "detail": "12 min y respiración lenta.", "kind": "mobility" },
+      { "title": "Equilibrio", "detail": "2 x 20 s/lado, sin buscar inestabilidad artificial.", "kind": "mobility" },
+      { "title": "Revisión", "detail": "Comprueba si puedes subir escaleras sin dolor y con control.", "kind": "reading" },
+      { "title": "Sueño", "detail": "Horario constante, también en domingo.", "kind": "sleep" }
+    ]
+  },
+  {
+    "day": 36,
+    "date": "19 oct",
+    "phase": "Consolidar",
+    "title": "Más control, no más prisa",
+    "intro": "La última semana aumenta la capacidad de trabajo sin convertirla en una fase avanzada.",
+    "goal": "Usar una carga que permita dos repeticiones en reserva.",
+    "steps": "5.500–6.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min · RPE 3/10", "kind": "walk" },
+      { "title": "Fuerza con mochila", "detail": "3 vueltas con 2–5 kg opcionales · RPE 6–7/10 · 90 s entre vueltas", "kind": "strength" },
+      { "title": "Core", "detail": "Dead bug y plancha lateral · 3 series de cada uno.", "kind": "strength" },
+      { "title": "Pausas activas", "detail": "6–8 pausas y paseo posterior a la comida.", "kind": "work" },
+      { "title": "Lectura", "detail": "15–20 min.", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentadilla con mochila", "reps": "3 x 8 · 90 s · RPE 6–7" },
+      { "name": "Step-up bajo", "reps": "3 x 8/lado · 90 s" },
+      { "name": "Peso muerto con mochila", "reps": "3 x 10 · 75 s" },
+      { "name": "Dead bug", "reps": "3 x 8/lado · 45 s" },
+      { "name": "Plancha lateral", "reps": "3 x 20 s/lado · 45 s" }
+    ]
+  },
+  {
+    "day": 37,
+    "date": "20 oct",
+    "phase": "Consolidar",
+    "title": "Pequeños cambios de ritmo",
+    "intro": "Introducimos variaciones controladas, parecidas a encadenar tramos de una pista.",
+    "goal": "Cambiar de ritmo sin perder postura ni respiración.",
+    "steps": "5.500–6.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min · RPE 3/10", "kind": "walk" },
+      { "title": "Cardio variable", "detail": "10 x (1 min vivo + 2 min suave) caminando · RPE 5–6/10 en los vivos", "kind": "walk" },
+      { "title": "Equilibrio dinámico", "detail": "Caminar talón-punta y apoyo a una pierna · 3 pasadas suaves.", "kind": "mobility" },
+      { "title": "Movilidad", "detail": "8 min de tobillo, cadera y columna torácica.", "kind": "mobility" },
+      { "title": "Sueño", "detail": "Mantén la rutina nocturna incluso si notas energía alta.", "kind": "sleep" }
+    ]
+  },
+  {
+    "day": 38,
+    "date": "21 oct",
+    "phase": "Consolidar",
+    "title": "Resistencia de cuádriceps",
+    "intro": "Practicamos posiciones de flexión sostenidas con un volumen todavía prudente.",
+    "goal": "Acumular tiempo bajo tensión sin dolor de rodilla.",
+    "steps": "5.500–6.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min + movilidad · RPE 3/10", "kind": "walk" },
+      { "title": "Piernas específicas", "detail": "4 series de sentadilla parcial, step-up y pared · RPE 6–7/10 · 90 s", "kind": "strength" },
+      { "title": "Estabilidad de cadera", "detail": "Abducción lateral tumbado · 3 x 10/lado.", "kind": "strength" },
+      { "title": "Core", "detail": "Plancha inclinada · 3 x 30 s.", "kind": "strength" },
+      { "title": "Lectura", "detail": "15–20 min.", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentadilla parcial", "reps": "4 x 10 · 90 s · RPE 6" },
+      { "name": "Step-up bajo", "reps": "4 x 6/lado · 90 s" },
+      { "name": "Sentadilla isométrica en pared", "reps": "4 x 25 s · 90 s" },
+      { "name": "Abducción lateral", "reps": "3 x 10/lado · 45 s" },
+      { "name": "Plancha inclinada", "reps": "3 x 30 s · 45 s" }
+    ]
+  },
+  {
+    "day": 39,
+    "date": "22 oct",
+    "phase": "Consolidar",
+    "title": "Bajar la carga",
+    "intro": "Una jornada ligera protege la progresión y permite evaluar cómo respondes.",
+    "goal": "Llegar fresco al fin de semana.",
+    "steps": "4.500–5.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min suave · RPE 2–3/10", "kind": "walk" },
+      { "title": "Paseo después de comer", "detail": "10 min tranquilos.", "kind": "walk" },
+      { "title": "Movilidad", "detail": "12 min, sin forzar ninguna articulación.", "kind": "mobility" },
+      { "title": "Pausas activas", "detail": "Mantén el hábito aunque hoy no haya fuerza.", "kind": "work" },
+      { "title": "Recuperación", "detail": "Hidratación y comida suficiente; no compenses reduciendo demasiado.", "kind": "sleep" }
+    ]
+  },
+  {
+    "day": 40,
+    "date": "23 oct",
+    "phase": "Consolidar",
+    "title": "Circuito de montaña",
+    "intro": "Combinamos piernas, core y equilibrio en una sesión continua y controlada.",
+    "goal": "Completar cuatro rondas con la misma calidad de movimiento.",
+    "steps": "6.000–7.000",
+    "activities": [
+      { "title": "Paseo largo", "detail": "45–50 min · RPE 4/10", "kind": "walk" },
+      { "title": "Circuito", "detail": "4 rondas: sentadilla 8, zancada 6/lado, bisagra 10, gemelo 12 y dead bug 6/lado · RPE 7/10", "kind": "strength" },
+      { "title": "Equilibrio", "detail": "Apoyo a una pierna con ligera flexión · 3 x 25 s/lado.", "kind": "mobility" },
+      { "title": "Vuelta a la calma", "detail": "5–10 min caminando suave.", "kind": "walk" },
+      { "title": "Lectura", "detail": "15–20 min y acostarte a la hora prevista.", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentadilla con mochila opcional", "reps": "4 x 8 · 2 min · RPE 7" },
+      { "name": "Zancada atrás", "reps": "4 x 6/lado · 2 min" },
+      { "name": "Peso muerto con mochila", "reps": "4 x 10 · 90 s" },
+      { "name": "Elevaciones de talones", "reps": "4 x 12 · 60 s" },
+      { "name": "Dead bug", "reps": "4 x 6/lado · 45 s" }
+    ]
+  },
+  {
+    "day": 41,
+    "date": "24 oct",
+    "phase": "Consolidar",
+    "title": "Potencia solo si estás listo",
+    "intro": "Los pequeños impulsos aparecen únicamente si no hay dolor y la técnica sigue siendo sólida.",
+    "goal": "Practicar aterrizajes silenciosos, no saltar alto.",
+    "steps": "5.500–6.500",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min · RPE 3/10", "kind": "walk" },
+      { "title": "Potencia opcional", "detail": "2 x 5 elevaciones rápidas de talones y 2 x 5 mini-sentadillas con despegue mínimo · RPE 5/10; sustituye por sentadilla si hay dudas", "kind": "strength" },
+      { "title": "Fuerza", "detail": "3 vueltas de sentadilla, step-up, puente y core · RPE 6/10", "kind": "strength" },
+      { "title": "Equilibrio", "detail": "Aterrizar de un paso bajo y estabilizar 2 s · 2 x 4/lado.", "kind": "mobility" },
+      { "title": "Recuperación", "detail": "Nada de saltos si aparece dolor en rodilla, tobillo o espalda.", "kind": "sleep" }
+    ],
+    "exercises": [
+      { "name": "Mini-sentadilla con despegue", "reps": "2 x 5 · 90 s · RPE 5" },
+      { "name": "Step-up bajo", "reps": "3 x 8/lado · 90 s" },
+      { "name": "Puente de glúteos", "reps": "3 x 12 · 60 s" },
+      { "name": "Plancha lateral", "reps": "3 x 20 s/lado · 45 s" }
+    ]
+  },
+  {
+    "day": 42,
+    "date": "25 oct",
+    "phase": "Consolidar",
+    "title": "Recuperar entre bajadas",
+    "intro": "El objetivo cardiovascular es volver a un esfuerzo cómodo después de cada bloque.",
+    "goal": "Completar el trabajo sin acumular respiración descontrolada.",
+    "steps": "6.000–7.000",
+    "activities": [
+      { "title": "Cardio continuo", "detail": "55 min caminando · RPE 4/10", "kind": "walk" },
+      { "title": "Cambios suaves", "detail": "Durante el paseo, 5 x 2 min algo más vivos con 3 min suaves.", "kind": "walk" },
+      { "title": "Movilidad", "detail": "10 min al finalizar.", "kind": "mobility" },
+      { "title": "Movimiento natural", "detail": "Día activo sin añadir fuerza pesada.", "kind": "work" },
+      { "title": "Sueño", "detail": "Prioriza la recuperación de la semana.", "kind": "sleep" }
+    ]
+  },
+  {
+    "day": 43,
+    "date": "26 oct",
+    "phase": "Consolidar",
+    "title": "Último estímulo de fuerza",
+    "intro": "Repetimos los patrones principales para consolidar la base antes de cerrar el bloque.",
+    "goal": "Terminar fuerte, pero con margen y sin buscar récords.",
+    "steps": "6.000–7.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min · RPE 3/10", "kind": "walk" },
+      { "title": "Fuerza completa", "detail": "4 vueltas · RPE 7/10 · deja 2 repeticiones en reserva", "kind": "strength" },
+      { "title": "Equilibrio", "detail": "3 x 30 s por pierna y 2 x 5 step-down/lado.", "kind": "mobility" },
+      { "title": "Pausas activas", "detail": "Levántate cada 60–90 min y camina después de comer.", "kind": "work" },
+      { "title": "Lectura", "detail": "15–20 min.", "kind": "reading" }
+    ],
+    "exercises": [
+      { "name": "Sentadilla con mochila opcional", "reps": "4 x 8 · 2 min · RPE 7" },
+      { "name": "Zancada atrás", "reps": "4 x 6/lado · 2 min" },
+      { "name": "Peso muerto con mochila", "reps": "4 x 10 · 90 s" },
+      { "name": "Elevación de talón a una pierna", "reps": "3 x 10/lado · 60 s" },
+      { "name": "Dead bug", "reps": "4 x 8/lado · 45 s" }
+    ]
+  },
+  {
+    "day": 44,
+    "date": "27 oct",
+    "phase": "Consolidar",
+    "title": "Ensayo controlado",
+    "intro": "Unimos caminata, fuerza ligera y estabilidad en una jornada parecida a una salida larga.",
+    "goal": "Acabar con sensación de capacidad, no de agotamiento.",
+    "steps": "6.000–7.000",
+    "activities": [
+      { "title": "Paseo largo", "detail": "60 min a ritmo cómodo · RPE 4/10", "kind": "walk" },
+      { "title": "Circuito breve", "detail": "2 vueltas de 8 sentadillas, 6 zancadas/lado, 10 bisagras y 20 s de plancha · RPE 5–6/10", "kind": "strength" },
+      { "title": "Equilibrio", "detail": "3 x 25 s/lado con apoyo cercano.", "kind": "mobility" },
+      { "title": "Movilidad", "detail": "10 min, especialmente tobillo y cadera.", "kind": "mobility" },
+      { "title": "Sueño", "detail": "Cena normal, hidratación y horario constante.", "kind": "sleep" }
+    ]
+  },
+  {
+    "day": 45,
+    "date": "28 oct",
+    "phase": "Cierre",
+    "title": "Cierra la construcción",
+    "intro": "Has pasado de recuperar el movimiento a tolerar fuerza, cardio y control específicos.",
+    "goal": "Evaluar la base y decidir el siguiente bloque sin precipitarte.",
+    "steps": "5.000–6.000",
+    "activities": [
+      { "title": "Paseo de mañana", "detail": "20 min muy cómodos + movilidad · RPE 2–3/10", "kind": "walk" },
+      { "title": "Sesión de evaluación", "detail": "2 vueltas cómodas del circuito base; compara técnica y fatiga con el día 16 · RPE 5–6/10", "kind": "strength" },
+      { "title": "Paseo de salida", "detail": "20–30 min suaves para recuperar.", "kind": "walk" },
+      { "title": "Evaluación", "detail": "Anota pasos, sueño, energía, molestias, equilibrio y qué capacidad quieres priorizar.", "kind": "reading" },
+      { "title": "Plan siguiente", "detail": "La fase específica de esquí debe empezar solo si no hay dolor persistente y la recuperación es buena.", "kind": "sleep" }
+    ],
+    "exercises": [
+      { "name": "Sentadilla a silla", "reps": "2 x 10 · 90 s · RPE 5–6" },
+      { "name": "Zancada atrás", "reps": "2 x 6/lado · 90 s" },
+      { "name": "Peso muerto con mochila opcional", "reps": "2 x 10 · 75 s" },
+      { "name": "Elevaciones de talones", "reps": "2 x 15 · 45 s" },
+      { "name": "Plancha lateral", "reps": "2 x 20 s/lado · 45 s" }
+    ],
+    "reflection": ["Pasos medios", "Sesiones completadas", "RPE habitual", "Equilibrio por pierna", "Molestias", "Siguiente capacidad a mejorar"]
+  }
+]

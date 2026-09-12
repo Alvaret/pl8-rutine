@@ -1,0 +1,2 @@
+import type { MetadataRoute } from 'next'
+export default function manifest(): MetadataRoute.Manifest { return { name: 'Reto 45 · Vuelve a moverte', short_name: 'Reto 45', description: 'Plan progresivo de 45 días para recuperar el movimiento y construir una base para esquiar.', start_url: '/', display: 'standalone', background_color: '#f6f7f5', theme_color: '#f6f7f5', orientation: 'portrait', lang: 'es', icons: [{ src: '/icons/icon-192.png', sizes: '192x192', type: 'image/png' }, { src: '/icons/icon-512.png', sizes: '512x512', type: 'image/png' }] } }

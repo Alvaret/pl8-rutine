@@ -1,0 +1,64 @@
+{
+  "title": "Plan nutricional · Primeros 15 días",
+  "description": "Menús cerrados organizados a partir del informe nutricional proporcionado.",
+  "dailyProtocol": [
+    "Al levantarte: agua y los dos cafés con leche del desayuno según el horario del día.",
+    "Durante la mañana: beber agua de forma regular.",
+    "Durante el trabajo: levantarte cada 60–90 minutos y caminar después de comer cuando sea posible.",
+    "A las 22:00: lectura y evitar el móvil durante los últimos 30 minutos.",
+    "Antes de dormir: mantener el horario de 22:45–23:00."
+  ],
+  "templates": {
+    "standard": {
+      "label": "Día laboral · menú base",
+      "macros": { "calories": "2.200 kcal", "protein": "170 g", "carbohydrates": "215 g", "fats": "75 g" },
+      "meals": [
+        { "name": "Desayuno", "time": "10:30–11:00", "description": "2 cafés con 150 ml de leche cada uno + batido de 30 g de proteína con 300 ml de leche." },
+        { "name": "Comida", "time": "14:00–14:30", "description": "60 g de arroz en crudo + 200 g de pechuga de pollo + 200 g de verduras + 10 g de aceite de oliva + 100 g de manzana." },
+        { "name": "Merienda", "time": "17:00–17:30", "description": "200 g de yogur proteico + 20 g de almendras." },
+        { "name": "Cena", "time": "20:30–21:00", "description": "200 g de merluza + 200 g de verduras + 150 g de patata asada + 10 g de aceite de oliva." },
+        { "name": "Recena", "time": "Antes de dormir", "description": "No realizar recena salvo que exista hambre real y hayan pasado más de 2 horas desde la cena." }
+      ]
+    },
+    "training": {
+      "label": "Día de fuerza · menú con hidratos",
+      "macros": { "calories": "2.350 kcal", "protein": "180 g", "carbohydrates": "250 g", "fats": "75 g" },
+      "meals": [
+        { "name": "Desayuno", "time": "10:30–11:00", "description": "2 cafés con 150 ml de leche cada uno + batido de 30 g de proteína con 300 ml de leche." },
+        { "name": "Comida", "time": "14:00–14:30", "description": "80 g de arroz en crudo + 200 g de pechuga de pollo + 200 g de verduras + 10 g de aceite de oliva + 100 g de plátano." },
+        { "name": "Merienda", "time": "17:00–17:30", "description": "1 plátano mediano + 200 g de yogur proteico." },
+        { "name": "Pre-entrenamiento", "time": "30–60 min antes", "description": "Café solo o con un poco de leche, únicamente si se necesita un estímulo antes de entrenar." },
+        { "name": "Cena", "time": "20:30–21:00", "description": "200 g de pechuga de pavo + 200 g de verduras + 200 g de patata asada + 10 g de aceite de oliva." },
+        { "name": "Recena", "time": "Antes de dormir", "description": "No realizar recena salvo que exista hambre real y hayan pasado más de 2 horas desde la cena." }
+      ]
+    },
+    "weekend": {
+      "label": "Fin de semana · menú cerrado",
+      "macros": { "calories": "2.050 kcal", "protein": "165 g", "carbohydrates": "175 g", "fats": "80 g" },
+      "meals": [
+        { "name": "Desayuno", "time": "09:00–09:30", "description": "2 cafés con 150 ml de leche cada uno + batido de 30 g de proteína con 300 ml de leche." },
+        { "name": "Comida", "time": "14:00–14:30", "description": "200 g de pechuga de pollo + ensalada de 250 g de verduras + 150 g de patata cocida + 10 g de aceite de oliva." },
+        { "name": "Merienda", "time": "17:00–17:30", "description": "200 g de yogur proteico + 20 g de nueces." },
+        { "name": "Cena", "time": "21:00–21:30", "description": "200 g de salmón + 250 g de verduras al horno + 50 g de aguacate." },
+        { "name": "Recena", "time": "Antes de dormir", "description": "No realizar recena." }
+      ]
+    }
+  },
+  "days": [
+    { "day": 1, "date": "14 sep", "template": "standard", "focus": "Crear horarios regulares y seguir el menú completo.", "macros": { "calories": "2.200 kcal", "protein": "170 g", "carbohydrates": "215 g", "fats": "75 g" } },
+    { "day": 2, "date": "15 sep", "template": "standard", "focus": "Priorizar el cumplimiento del horario y la hidratación.", "macros": { "calories": "2.200 kcal", "protein": "170 g", "carbohydrates": "215 g", "fats": "75 g" } },
+    { "day": 3, "date": "16 sep", "template": "training", "focus": "Acompañar la primera sesión de fuerza con hidratos suficientes.", "macros": { "calories": "2.350 kcal", "protein": "180 g", "carbohydrates": "250 g", "fats": "75 g" } },
+    { "day": 4, "date": "17 sep", "template": "standard", "focus": "Mantener un menú sencillo y constante.", "macros": { "calories": "2.200 kcal", "protein": "170 g", "carbohydrates": "215 g", "fats": "75 g" } },
+    { "day": 5, "date": "18 sep", "template": "training", "focus": "Llegar a la sesión con una comida completa y recuperarte con la cena.", "macros": { "calories": "2.350 kcal", "protein": "180 g", "carbohydrates": "250 g", "fats": "75 g" } },
+    { "day": 6, "date": "19 sep", "template": "weekend", "focus": "Mantener la estructura del fin de semana sin comida libre abierta.", "macros": { "calories": "2.050 kcal", "protein": "165 g", "carbohydrates": "175 g", "fats": "80 g" } },
+    { "day": 7, "date": "20 sep", "template": "weekend", "focus": "Comer suficiente y mantener el horario de descanso.", "macros": { "calories": "2.050 kcal", "protein": "165 g", "carbohydrates": "175 g", "fats": "80 g" } },
+    { "day": 8, "date": "21 sep", "template": "standard", "focus": "Retomar el menú laboral después del fin de semana.", "macros": { "calories": "2.200 kcal", "protein": "170 g", "carbohydrates": "215 g", "fats": "75 g" } },
+    { "day": 9, "date": "22 sep", "template": "training", "focus": "Asegurar energía para la sesión de fuerza.", "macros": { "calories": "2.350 kcal", "protein": "180 g", "carbohydrates": "250 g", "fats": "75 g" } },
+    { "day": 10, "date": "23 sep", "template": "standard", "focus": "Seguir el menú sin añadir picoteos fuera de las comidas.", "macros": { "calories": "2.200 kcal", "protein": "170 g", "carbohydrates": "215 g", "fats": "75 g" } },
+    { "day": 11, "date": "24 sep", "template": "training", "focus": "Mantener proteína e hidratos alrededor del entrenamiento.", "macros": { "calories": "2.350 kcal", "protein": "180 g", "carbohydrates": "250 g", "fats": "75 g" } },
+    { "day": 12, "date": "25 sep", "template": "standard", "focus": "Facilitar la recuperación con una cena completa y temprano.", "macros": { "calories": "2.200 kcal", "protein": "170 g", "carbohydrates": "215 g", "fats": "75 g" } },
+    { "day": 13, "date": "26 sep", "template": "weekend", "focus": "Mantener un menú cerrado también durante el fin de semana.", "macros": { "calories": "2.050 kcal", "protein": "165 g", "carbohydrates": "175 g", "fats": "80 g" } },
+    { "day": 14, "date": "27 sep", "template": "weekend", "focus": "No compensar: seguir las cantidades previstas del menú.", "macros": { "calories": "2.050 kcal", "protein": "165 g", "carbohydrates": "175 g", "fats": "80 g" } },
+    { "day": 15, "date": "28 sep", "template": "training", "focus": "Cerrar la fase manteniendo un patrón sostenible.", "macros": { "calories": "2.350 kcal", "protein": "180 g", "carbohydrates": "250 g", "fats": "75 g" } }
+  ]
+}
